@@ -45,7 +45,7 @@ Our solution combines innovative hardware with a mobile application to ensure:
 - Log of intake history
 - Visual summary to support therapy decisions
 
-### 📱 Mobile App (Prototype available)
+### 📱 Mobile App ([View the Figma Prototype](https://www.figma.com/design/rqFE54uHUMtWteCSuljnE2/Apteczka-PGF?node-id=0-1&t=NM2G9302IKAAQ1ul-1))
 - Patient & caregiver views
 - Custom reminders, logs, medication plan
 
@@ -87,7 +87,7 @@ Our solution combines innovative hardware with a mobile application to ensure:
 
 ## 🎨 Design Assets
 
-- **Figma** – Interactive app prototype (patients & caregivers) [View the Figma Prototype](https://www.figma.com/design/rqFE54uHUMtWteCSuljnE2/Apteczka-PGF?node-id=0-1&t=NM2G9302IKAAQ1ul-1)
+- **Figma** – Interactive app prototype (patients & caregivers)
 - **Blender** – Full 3D model
 - **USDZ** – iOS AR visualization
 - **Canva** – Hackathon presentation
@@ -95,7 +95,6 @@ Our solution combines innovative hardware with a mobile application to ensure:
 📁 Folder structure:
 ```
 /docs        - PDFs, app specs
-/figma       - App prototype link
 /photos      - 3D renders
 /ar+blender  - Blender + AR files
 /info        - Pitch deck & slides
