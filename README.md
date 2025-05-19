@@ -87,7 +87,7 @@ Our solution combines innovative hardware with a mobile application to ensure:
 
 ## 🎨 Design Assets
 
-- **Figma** – Interactive app prototype (patients & caregivers)
+- **Figma** – Interactive app prototype (patients & caregivers) [View the Figma Prototype](https://www.figma.com/design/rqFE54uHUMtWteCSuljnE2/Apteczka-PGF?node-id=0-1&t=NM2G9302IKAAQ1ul-1)
 - **Blender** – Full 3D model
 - **USDZ** – iOS AR visualization
 - **Canva** – Hackathon presentation
